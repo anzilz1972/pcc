@@ -132,4 +132,11 @@ cheeseshop("Limburger", "It's very runny, sir.",
 ask_ok('Do you really want to quit?')
 draw_line()
 
+##############################################################
+### call ask_ok()
+
+##############################################################
+### call ask_ok()
+
+
 
